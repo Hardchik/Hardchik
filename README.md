@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/hardikchhabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hardikchhabra" height="30" width="40" /></a>
 <a href="https://instagram.com/chhabra_hardik01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chhabra_hardik01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chhabrahardik345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chhabrahardik345" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hardchik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hardchik" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Hardchik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hardchik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
