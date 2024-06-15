@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blogsbyhc.netlify.app/](https://blogsbyhc.netlify.app/)
 
-- 💬 Ask me about **React, AI/ML, Developing GUI, ....**
+- 💬 Ask me about **Scalable System Architectures, DevOps, React, Deep Neural Networks, AI/ML, MLOps, Developing GUI, ....**
 
 - 📫 How to reach me **chhabrahardik345@gmail.com**
 
